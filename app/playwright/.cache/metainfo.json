@@ -1,0 +1,70 @@
+{
+  "version": "1.55.1",
+  "viteVersion": "6.3.6",
+  "registerSourceHash": "ed20ffae407b333f753f74a3130ce543fc5c44d3",
+  "components": [
+    {
+      "id": "_home_jgonzalezalvarez_dev_react_playwright_ct_app_src_App",
+      "filename": "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/App.spec.jsx",
+      "importSource": "./App"
+    }
+  ],
+  "sources": {
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/playwright/index.html": {
+      "timestamp": 1758877957017.342
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/playwright/index.jsx": {
+      "timestamp": 1758877957017.342
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/react/index.js": {
+      "timestamp": 1759212424543.0605
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/react-dom/index.js": {
+      "timestamp": 1759212424543.0605
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/App.jsx": {
+      "timestamp": 1758877957017.342
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/App.css": {
+      "timestamp": 1758877957017.342
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/assets/react.svg": {
+      "timestamp": 1758877957017.342
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/react/jsx-dev-runtime.js": {
+      "timestamp": 1759212424546.6604
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/react/cjs/react.development.js": {
+      "timestamp": 1759212424701.4604
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/react-dom/cjs/react-dom.development.js": {
+      "timestamp": 1759212424856.2605
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/react/cjs/react-jsx-dev-runtime.development.js": {
+      "timestamp": 1759212424607.8606
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/object-assign/index.js": {
+      "timestamp": 1759212424543.0605
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/scheduler/tracing.js": {
+      "timestamp": 1759212424748.2605
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/scheduler/index.js": {
+      "timestamp": 1759212424543.0605
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/scheduler/cjs/scheduler-tracing.development.js": {
+      "timestamp": 1759212424561.0605
+    },
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/node_modules/scheduler/cjs/scheduler.development.js": {
+      "timestamp": 1759212424715.8606
+    }
+  },
+  "deps": {
+    "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/App.jsx": [
+      "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/App.jsx",
+      "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/assets/react.svg",
+      "/vite.svg",
+      "/home/jgonzalezalvarez/dev/react-playwright-ct/app/src/App.css"
+    ]
+  }
+}
